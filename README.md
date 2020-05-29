@@ -1,4 +1,2 @@
-ud989-cat-clicker-ko-starter
+Udacity Cat Clicker - using knockout.js
 ============================
-
-ud989-cat-clicker-ko-starter
